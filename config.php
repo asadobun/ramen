@@ -9,13 +9,13 @@ $owner = 'Hosted by : Ramen';
 //-----------------------------------------------------------------------------------------//
 //API Informations
 $api_name[] = 'Stripe API 1 [need SK][Risk: Low]';
-$api_file[] = 'Stripe_1.php';
+$api_file[] = 'Ramen1.php';
 
-$api_name[] = 'Stripe API 1 [need SK][WebshareProxy Exp]';
-$api_file[] = 'Stripe_1_Prox.php';
+$api_name[] = 'Stripe API  [need SK][WebshareProxy Exp]';
+$api_file[] = 'RamenProx.php';
 
 $api_name[] = 'Stripe API 2 [need SK][Risk: Low]';
-$api_file[] = 'Stripe_2.php';
+$api_file[] = 'Ramen2.php';
 
 
 
